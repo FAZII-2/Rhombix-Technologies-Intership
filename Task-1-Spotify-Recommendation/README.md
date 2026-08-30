@@ -110,15 +110,40 @@ Prediction
    ↓
 Evaluation
 ```
-
 ---
 
 ## Model Evaluation
 
-The models were evaluated using:
+The models were evaluated using the following metrics:
+ **Accuracy**
+ **Precision**
+ **Recall**
+ **F1-score**
+ **Confusion Matrix**
 
--Accuracy
--Precision
--Recall
--F1-score
--Confusion Matrix
+---
+
+## Best Performing Model
+
+### **Random Forest**
+- **Accuracy:** `94%`
+
+The Random Forest model achieved the best overall performance among all evaluated models on the test dataset.
+
+---
+
+## 📓 Notebook
+
+The complete implementation, exploratory analysis, visualizations, model training pipelines, and step-by-step evaluations are available here:
+* [spotify_recommendation.ipynb](spotify_recommendation.ipynb)
+
+---
+
+## Technologies Used
+
+* **Language:** Python
+* **Data Manipulation:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Machine Learning:** Scikit-learn
+* **Environments:** Google Colab, Kaggle
+
