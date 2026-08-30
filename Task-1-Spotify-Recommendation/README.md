@@ -1,13 +1,13 @@
 # Task 1 — Spotify Recommendation System
 
-## 📌 Overview
+## Overview
 
 This project was completed as part of my Machine Learning internship at Rhombix Technologies.
 The project uses Spotify audio features and machine learning classification algorithms to predict whether a song is likely to be liked by a user.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective is to predict the `liked` value of a song:
 `0` → Not Liked
@@ -16,7 +16,7 @@ The prediction is based on Spotify audio features such as danceability, energy, 
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains:
 - **195 songs**
@@ -46,7 +46,7 @@ The dataset contains:
 
 ---
 
-## 🔍 Data Understanding & EDA
+## Data Understanding & EDA
 
 The following analysis was performed:
 
@@ -63,7 +63,7 @@ The target classes were found to be reasonably balanced.
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 The following steps were performed:
 
@@ -74,7 +74,7 @@ The following steps were performed:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 Multiple classification algorithms were implemented and evaluated, including:
 
@@ -87,7 +87,7 @@ Multiple classification algorithms were implemented and evaluated, including:
 
 ---
 
-## 🔄 Machine Learning Pipeline
+## Machine Learning Pipeline
 
 The project uses a Scikit-learn pipeline to organize preprocessing and model training.
 
@@ -109,3 +109,14 @@ Machine Learning Model
 Prediction
    ↓
 Evaluation
+
+---
+
+## Model Evaluation
+The models were evaluated using:
+
+-Accuracy
+-Precision
+-Recall
+-F1-score
+-Confusion Matrix
