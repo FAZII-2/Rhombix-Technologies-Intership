@@ -135,7 +135,7 @@ The Random Forest model achieved the best overall performance among all evaluate
 ## 📓 Notebook
 
 The complete implementation, exploratory analysis, visualizations, model training pipelines, and step-by-step evaluations are available here:
-* [spotify_recommendation.ipynb](spotify_recommendation.ipynb)
+* [spotify_recommendation_system.ipynb](SPOTIFY_RECOMMENDATION_SYSTEM.ipynb)
 
 ---
 
