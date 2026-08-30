@@ -109,10 +109,12 @@ Machine Learning Model
 Prediction
    ↓
 Evaluation
+```
 
 ---
 
 ## Model Evaluation
+
 The models were evaluated using:
 
 -Accuracy
