@@ -20,7 +20,6 @@ Built as part of the Rhombix Machine Learning Internship.
 - [Topic-Level Sentiment Demo](#topic-level-sentiment-demo)
 - [Limitations & Honest Tradeoffs](#limitations--honest-tradeoffs)
 - [How to Run](#how-to-run)
-- [Repository Structure](#repository-structure)
 - [Possible Future Improvements](#possible-future-improvements)
 - [Author](#author)
 
