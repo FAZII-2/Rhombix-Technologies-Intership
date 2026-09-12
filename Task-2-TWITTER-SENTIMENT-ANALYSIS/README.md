@@ -2,7 +2,7 @@
 
 A complete, end-to-end sentiment analysis system built on the Sentiment140 dataset (1.6M tweets), covering classical NLP feature engineering, multi-model comparison (Naive Bayes, Logistic Regression, SVM, LSTM), model interpretability, a confidence-based Neutral-sentiment enhancement, and an interactive topic-level sentiment demo.
 
-Built as part of the CodeAlpha Machine Learning Internship.
+Built as part of the Rhombix Machine Learning Internship.
 
 ---
 
@@ -208,17 +208,6 @@ This project makes a few deliberate, documented tradeoffs rather than hiding the
 
 ---
 
-## Repository Structure
-
-```
-twitter-sentiment-analysis/
-│
-├── README.md                     <- You are here
-├── Twitter_Sentiment_Analysis.ipynb   <- Full Colab notebook (all phases)
-└── requirements.txt               <- (optional) Python dependencies for local runs
-```
-
----
 
 ## Possible Future Improvements
 
@@ -232,4 +221,4 @@ twitter-sentiment-analysis/
 ## Author
 
 **Faizan**
-CodeAlpha Machine Learning Internship
+Rhombix Technologies Machine Learning Internship
