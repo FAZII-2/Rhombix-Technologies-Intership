@@ -22,7 +22,8 @@ The purpose of this repository is to document practical work, experimentation, m
 | Task | Project | Status |
 |---|---|---|
 | Task 1 | Spotify Recommendation System | Completed |
-| Task 2.1 | Face Recognition CNN Model | Completed |
+| Task 1.1 | Face Recognition CNN Model | Completed |
+| Task 2 | Twitter Sentiment Analysis Model | Completed |
 
 ---
 
@@ -36,10 +37,15 @@ Rhombix-Tech-Internship/
 │   ├── requirements.txt
 │   └── spotify_recommendation.ipynb
 │
-├── Task-1-Spotify-Recommendation/
+├── Task-1.1-Face-Recognition-CNN-Model/
 │   ├── README.md
 │   ├── requirements.txt
 │   └── IMAGE RECOGNITION using Convolutional Neural Network (CNN).ipynb
+│
+├── Task-2-twitter-sentiment-analysis/
+│   ├── README.md                     
+│   ├──Twitter_Sentiment_Analysis.ipynb  
+│   └── requirements.txt            
 │
 ├── README.md
 └── LICENSE
