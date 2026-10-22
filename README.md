@@ -24,6 +24,9 @@ The purpose of this repository is to document practical work, experimentation, m
 | Task 1 | Spotify Recommendation System | Completed |
 | Task 1.1 | Face Recognition CNN Model | Completed |
 | Task 2 | Twitter Sentiment Analysis Model | Completed |
+| Task 2.1 | Credit Scoring Model | Completed |
+| Task 3 | Automated Eassy Scoring | Completed |
+| Task 3.1 | Twitter Sentiment Analysis Model | Completed |
 
 ---
 
@@ -45,7 +48,22 @@ Rhombix-Tech-Internship/
 ├── Task-2-twitter-sentiment-analysis/
 │   ├── README.md                     
 │   ├──Twitter_Sentiment_Analysis.ipynb  
-│   └── requirements.txt            
+│   └── requirements.txt
+|
+├── Task-2.1-Credit-Scoring-Model/
+│   ├── README.md                     
+│   ├──Credit-Scoring-Model.ipynb  
+│   └── requirements.txt
+|
+├── Task-2.1-Automated-Eassy-Scoring/
+│   ├── README.md                     
+│   ├──Automated-Eassy-Scoring.ipynb  
+│   └── requirements.txt
+|
+├── Task-3.2-Credit-card-approval/
+│   ├── README.md                     
+│   ├──Credit-card-approval.ipynb  
+│   └── requirements.txt        
 │
 ├── README.md
 └── LICENSE
