@@ -27,6 +27,8 @@ The purpose of this repository is to document practical work, experimentation, m
 | Task 2.1 | Credit Scoring Model | Completed |
 | Task 3 | Automated Eassy Scoring | Completed |
 | Task 3.1 | Twitter Sentiment Analysis Model | Completed |
+| Task 4.1 | Fake New detection System | Completed |
+| Task 4.2 | House price pridiction | Completed |
 
 ---
 
@@ -63,6 +65,16 @@ Rhombix-Tech-Internship/
 ├── Task-3.2-Credit-card-approval/
 │   ├── README.md                     
 │   ├──Credit-card-approval.ipynb  
+│   └── requirements.txt
+│
+├── Task-4.1-fake news detection system/
+│   ├── README.md                     
+│   ├──Fake New Detection System.ipynb  
+│   └── requirements.txt
+│
+├── Task-4.2-House price pridiction/
+│   ├── README.md                     
+│   ├──House price pridiction.ipynb  
 │   └── requirements.txt        
 │
 ├── README.md
